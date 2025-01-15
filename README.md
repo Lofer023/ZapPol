@@ -1,7 +1,10 @@
 Тест:
 1. Оригинал video.vebm
 2. Результат output_video.mp4
-   
+
+Пакеты для работы: 
+pip install opencv-python torch ultralytics filterpy numpy
+
 Примеры:
 
 ![image](https://github.com/user-attachments/assets/f8d864b9-1ebb-40de-89f8-425655e7c8b5)
