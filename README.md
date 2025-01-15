@@ -6,9 +6,7 @@
 
 Пакеты:
 
-opencv-python torch ultralytics filterpy numpy 
-
-google-colab
+opencv-python torch ultralytics filterpy numpy google-colab
 
 Примеры:
 
