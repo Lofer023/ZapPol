@@ -14,8 +14,6 @@ def init_kalman_filter(bbox):
     kf.P *= 10.0
     kf.R *= 1.0
     kf.Q *= 0.01
-    
-    # Reshape bbox to match the shape of kf.x[:4]
     kf.x[:4] = np.reshape(bbox, (4, 1))
     return kf
 
