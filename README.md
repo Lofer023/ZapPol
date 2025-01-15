@@ -1,7 +1,8 @@
 Список:
-1. Оригинал video.vebm
-2. Результат output_video.mp4
-3. 
+1. Оригинал видео: video.vebm
+2. Результат: output_video.mp4
+3. colab.py
+4. rasperi.py
 
 Пакеты:
 
