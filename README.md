@@ -2,8 +2,10 @@
 1. Оригинал video.vebm
 2. Результат output_video.mp4
 
-Пакеты: 
-opencv-python torch ultralytics filterpy numpy
+Пакеты:
+
+opencv-python torch ultralytics filterpy numpy 
+google-colab
 
 Примеры:
 
