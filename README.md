@@ -3,7 +3,7 @@
 2. Результат output_video.mp4
 
 Пакеты для работы: 
-pip install opencv-python torch ultralytics filterpy numpy
+opencv-python torch ultralytics filterpy numpy
 
 Примеры:
 
